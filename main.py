@@ -25,6 +25,8 @@ def main():
 
     done_parser = subparsers.add_parser("done")
     done_parser.add_argument("id", type=int)
+    
+    #автор DARKle
 
     remove_parser = subparsers.add_parser("remove")
     remove_parser.add_argument("id", type=int)

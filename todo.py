@@ -17,6 +17,7 @@ def add_task(text):
 
     print(f'Задача "{text}" добавлена.')
 
+#DARKle
 
 def list_tasks():
     tasks = load_tasks()
