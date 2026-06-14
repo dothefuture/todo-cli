@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CLI Todo
 
 Простое todo-приложение для терминала.
@@ -35,3 +36,5 @@ python main.py done 1
 ```bash
 python main.py remove 1
 ```
+=======
+# todo-cli
